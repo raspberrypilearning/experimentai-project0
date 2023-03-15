@@ -1,0 +1,12 @@
+title: ExperienceAI Launchpad
+hero_image: images/banner.png
+description: Use machine learning to hide your face with a mask that will follow you when you move!
+version: 1
+listed: false
+copyedit: false
+last_tested: 
+steps:
+  - title: Introduction
+  - title: Facial recognition with Scratch
+  - title: Make a mask
+  - title: What next?
