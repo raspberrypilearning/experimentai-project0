@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will use machine learning to create a snap filter in Scratch! You will use a different version of Scratch (what programmers call a ‘fork’) that is pre-made with special extensions that can access pre-trained machine learning models.
+In this project, you will use machine learning to create a snap filter with Scratch! You will use a different version of Scratch (what programmers call a ‘fork’) that is pre-made with special extensions that can access pre-trained machine learning models.
 
 ### You will make
 
