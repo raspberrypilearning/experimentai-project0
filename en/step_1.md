@@ -16,10 +16,6 @@ You will:
 ![image showing Scratch stage with funny mask overlay](images/ML-FR-Demo.JPG)
 --- /no-print ---
 
---- collapse ---
----
-title: What you will need
----
 ### Hardware
 
 + A computer or tablet capable of running Scratch 3
@@ -29,15 +25,3 @@ title: What you will need
 
 + This project can only be completed in a web browser using a [version of Scratch 3 available from Machine Learning for Kids](https://machinelearningforkids.co.uk/scratch3/)
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can [download the completed project here](https://rpf.io/p/en/funny-face-follower-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/funny-face-follower/print){:target="_blank"}.
-
---- /collapse ---
